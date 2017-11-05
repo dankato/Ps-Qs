@@ -19,9 +19,3 @@ function removeDupes(array) {
 
 removeDupes([1, 2, 3, 4, 4, 5, 5, 6, 7, 8, 9, 9]);
 // [1, 2, 3, 4, 5, 6, 7, 8, 9]
-
-//--Merge 2 sorted Array----------------------------
-// Q: how would you merge two sorted array?
-// A: Keep a pointer for each array, and merge the array into a new one.
-
-function mergeSortedArray() {}
